@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image from Syntagma](https://commons.wikimedia.org/wiki/File:Syntagma03.png)
