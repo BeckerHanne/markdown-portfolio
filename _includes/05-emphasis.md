@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I am *creative*, *tenacious*, and _adventurous_! 
+This page will contain _epic_ content. *Eventually*. :grin: 
+:tada:
